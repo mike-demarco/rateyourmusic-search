@@ -1,0 +1,7 @@
+Right click selected text to search for books on Letterboxd.
+
+Search for books on Letterboxd with a right click! 
+
+You can now toggle whether your search opens Now or Later via a dropdown on the extension options page. Just click the Extensions icon in the top right of your browser (it looks like a puzzle piece), the click the three dots next to Goodreads Right Click and select Options.
+
+Select the text that you'd like to search (Movie title, actor, director), right click, and choose "Search Letterboxd."  Your results will show up in a new tab, and you can add the movie to one of your lists, create a new review, or get more information about the movie.

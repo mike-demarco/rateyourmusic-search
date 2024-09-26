@@ -1,0 +1,19 @@
+body {
+  width: 200px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+#content {
+  text-align: center;
+}
+
+#searchText {
+  font-size: 14px;
+}
+
+#searchButton {
+  margin-top: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
